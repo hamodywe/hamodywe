@@ -41,6 +41,6 @@
 ## 📫 How to Reach Me
 
 - 🌐 Website: SOON
-- ✉️ Email: ios9..apk@gmail.com
+- ✉️ Email: ios9.apk@gmail.com
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
