@@ -47,14 +47,7 @@
 
 ### 🚀 Featured Projects
 
-- 🔐 [Secure Login System with Spring Boot & JWT](https://github.com/Hamodywe/secure-login-jwt)  
-  Full authentication system using Spring Security, JWT, and PostgreSQL.
-
-- 📱 [Flutter Chat App (Socket.io)](https://github.com/Hamodywe/flutter-chat-app)  
-  Real-time mobile chat application connected to Node.js server.
-
-- 🌐 [Next.js Portfolio Template](https://github.com/Hamodywe/nextjs-portfolio)  
-  A modern and minimal developer portfolio template with TailwindCSS.
+- 🌐 [TeleGraphite: Telegram Scraper & JSON Exporter & telegram chanels scraper]([https://github.com/Hamodywe/secure-login-jwt](https://github.com/hamodywe/telegram-scraper-TeleGraphite))  
 
 ---
 
