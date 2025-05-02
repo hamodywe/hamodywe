@@ -1,16 +1,45 @@
-## Hi there 👋
+<!-- رأس الصفحة: شارة ترحيبية -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hamodywe&style=flat-square" alt="Profile views"/>
+</p>
 
-<!--
-**hamodywe/hamodywe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Hamodywe 👋
 
-Here are some ideas to get you started:
+🔭 I’m currently working with **Java**, **Jakarta EE 10**, **Spring Boot**,  
+🌱 I’m learning and building with **Node.js**, **Fastify**, **Next.js**,  
+👯 I’m also developing mobile apps in **Flutter** & **React Native**,  
+💾 Databases: **PostgreSQL** & **MongoDB**,  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills & Tools
+
+| Backend       | Frontend           | Mobile               | Database       |
+| ------------- | ------------------ | -------------------- | -------------- |
+| Java, Spring  | Next.js, React     | Flutter, React Native| PostgreSQL     |
+| Jakarta EE 10 | Fastify, Node.js   |                      | MongoDB        |
+
+---
+
+## 🚀 Featured Projects
+
+- [Project A](https://github.com/Hamodywe/project-a): وصف موجز للمشروع وأهم التقنيات المستخدمة      
+- [Project B](https://github.com/Hamodywe/project-b): وصف موجز للمشروع وأهم التقنيات المستخدمة      
+
+---
+
+## 📊 GitHub Stats
+
+<!-- GitHub Readme Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hamodywe&show_icons=true&theme=radical" alt="Hamodywe's GitHub stats"/>
+</p>
+
+---
+
+## 📫 How to Reach Me
+
+- 🌐 Website: https://your-website.com  
+- ✉️ Email: your.email@example.com  
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
