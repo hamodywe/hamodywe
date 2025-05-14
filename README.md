@@ -20,7 +20,7 @@
 
 #### 🖥️ Backend  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Jakarta EE](https://img.shields.io/badge/Jakarta%20EE-FF6C37?style=flat-square&logo=java&logoColor=white)
+
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-20232A?style=flat-square&logo=fastify&logoColor=white)
